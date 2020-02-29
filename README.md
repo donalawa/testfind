@@ -1,6 +1,7 @@
 # EasyFind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+The  aim of this project is to create a Home Addressing System which uniquely identifies each home with unblinking precision. This project will make use of the Geographic Coordinate System to come up with house addresses
 
 ## Development server
 

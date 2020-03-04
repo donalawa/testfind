@@ -43,11 +43,6 @@ import { HttpClientModule} from '@angular/common/http'
     MatCheckboxModule,
     HttpClientModule,
     MatRadioModule,
-     RouterModule.forRoot([
-      { path:'',redirectTo:'/onboard',pathMatch: 'full'},
-      {path:'onboard', component: OnboardComponent},
-      {path:'address', component: AddressComponent }
-    ])
   ],
   providers: [
    
